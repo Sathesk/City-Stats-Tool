@@ -1,21 +1,3 @@
-/*
-'Hatton' : population = 4646732
-            literacyRate = 90.20
-            language = 'Tamil'
-
-'Maskeliya' : population = 4646732
-            literacyRate = 90.20
-            language = 'Tamil'
-
-'Kotagala' : population = 4646732
-            literacyRate = 90.20
-            language = 'Tamil'
-
-'Bogawantalawa' : population = 4646732
-                literacyRate = 90.20
-                language = 'Tamil'
-            
-*/
 
 const button = document.querySelector('button');
 let resultdiv = document.createElement('div');
